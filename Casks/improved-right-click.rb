@@ -1,6 +1,6 @@
 cask "improved-right-click" do
-  version "1.0.0"
-  sha256 "657703524a2c22563b006e092ed1bd94841db59501204faeeb89915ab32ba457"
+  version "1.1.0"
+  sha256 "6edf6dabc7fc7a8b728b64acaeea705e844bbe315e6552347b8b806665c92de7"
 
   url "https://github.com/Astrak00/ImprovedRightClick/releases/download/v#{version}/ImprovedRightClick-#{version}.dmg"
   name "Improved Right Click"
