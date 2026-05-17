@@ -10,7 +10,6 @@ cask "improved-right-click" do
   depends_on macos: :ventura
 
   app "ImprovedRightClick.app"
-  icon "ImprovedRightClick.app/Contents/Resources/AppIcon.icns"
 
   postflight do
     system_command "/usr/bin/xattr",
